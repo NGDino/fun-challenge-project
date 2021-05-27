@@ -17,7 +17,7 @@
 
 ## Description
 
-The Craver is a simple search application using restful API's to help you decide what to eat.  If you know what you want to eat, but are unsure if you want to cook or dine out, the craver will give you an assortment of recipes and nearby restaurants to satisfy your craving. This app is fully responsive to all screentypes and displays the lists on a clean colapsible style list.  It has a polished look for the landing page and makes deciding what to have for dinner easy!
+The Craver is a simple search application using restful API's to help you decide what to eat.  If you know what you want to eat, but are unsure if you want to cook or dine out, the craver will give you an assortment of recipes and nearby restaurants to satisfy your craving. This app is fully responsive to all screen types and displays the lists on a clean collapsible style list.  It has a polished look for the landing page and makes deciding what to have for dinner easy!
 
 * You can view deployed site at https://ngdino.github.io/fun-challenge-project/
 
